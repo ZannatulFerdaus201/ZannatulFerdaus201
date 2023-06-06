@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zannatul Ferdaus
-- 👀 I’m interested in Cybersecurity Engineering
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...(coming soon)
 - 📫 How to reach me jannatul35-2981@diu.edu.bd
 
